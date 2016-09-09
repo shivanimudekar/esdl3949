@@ -12,8 +12,12 @@ int add (int p, int q)
   return a+b;
 }
 
-int add (int p, int q)
+int sub (int p, int q)
 {
   return a-b;
+}
+int mul(int p, int q)
+{
+  return a*b;
 }
 }
